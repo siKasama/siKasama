@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Eu trabalho com Full Stack PHP, Laravel, SQL, JS, HTML, CSS
-- 🌱 Estudando Node, React, VUE.
+- 🔭 Eu trabalho com Full Stack PHP, Laravel, SQL, JS, JQuery, HTML, CSS, Oracle, SQL
+- 🌱 Aprimorando em Java, Node, React.
 - ⭐ 
 
